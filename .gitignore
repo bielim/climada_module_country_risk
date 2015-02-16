@@ -44,3 +44,5 @@ data/emdat/emdat_USA_UnitedStates.xls
 data/emdat/emdat.csv
 
 data/emdat/emdat.mat
+
+code/my_selected_countries_region_peril.m
